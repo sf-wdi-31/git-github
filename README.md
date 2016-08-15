@@ -63,7 +63,7 @@ Finally, commit your staged changes with `git commit -m "add a descriptive messa
 Once you're ready for your local commits to become available online, you need to push the code to the remote repository on GitHub, named `origin`. Start with another `git status` to see how many commits you've completed since you last pushed. Then use the command `git push origin master` to make the remote repo match your local repo.
 
 
-### Visaulizing the Workflow
+### Visualizing the Workflow
 <figure>
   <img src="https://www.git-tower.com/learn/content/01-git/01-ebook/en/01-command-line/04-remote-repositories/01-introduction/basic-remote-workflow.png" alt="Local and remote">
   <br>
